@@ -3,7 +3,7 @@
 
 Summary: Gamerzilla Integration Library
 Name: libgamerzilla
-Version: 0.1.2
+Version: 0.1.3
 Release: 1
 Group:  System/libraries/games
 License: zlib
